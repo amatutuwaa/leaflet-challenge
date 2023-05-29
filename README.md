@@ -27,7 +27,7 @@ The first task is to visualize an earthquake dataset through the following steps
 ## Part 2: Gather and Plot More Data 
 
 1. I plot a second dataset on the map to illustrate the relationship between tectonic plates and seismic activity. 
-   - For this I will need to pull in [this dataset]([http://www.google.fr/](https://github.com/fraxen/tectonicplates) "this dataset title") and visualize it alongside the original data.
+   - For this I will need to pull in [this dataset](https://github.com/fraxen/tectonicplates "this dataset title") and visualize it alongside the original data.
 
    - I perform the following tasks:
       * Plot the tectonic plates dataset on the map in addition to the earthquakes.
