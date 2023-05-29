@@ -1,6 +1,6 @@
 # leaflet-challenge
- [Deployed Web Page] (https://amatutuwaa.github.io/leaflet-challenge/ "Deployed Web Page title")
- 
+ [Deployed Web Page](https://amatutuwaa.github.io/leaflet-challenge/ "Deployed Web Page title")
+
  <img width="1792" alt="Screenshot 2023-05-29 at 3 57 00 PM" src="https://github.com/amatutuwaa/leaflet-challenge/assets/114604829/2b092c5c-af2a-4145-98bd-74ddc847a846">
 
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
