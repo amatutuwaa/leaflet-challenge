@@ -6,6 +6,12 @@
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 This projeect aims to visualize their earthquake data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
+The Earthquake Visualization project aims to create an interactive map that visualizes earthquake data using the Leaflet library. It retrieves earthquake data in JSON format from the United States Geological Survey (USGS) and plots the earthquakes on the map based on their latitude, longitude, magnitude, and depth. The visualization provides users with a clear understanding of the geographical distribution of earthquakes and allows them to explore additional information about each earthquake by clicking on the markers.
+
+The map markers represent earthquakes, with their size indicating the magnitude and color reflecting the depth. Larger markers represent earthquakes with higher magnitudes, while darker colors represent greater depths. The legend on the map provides a visual guide to interpreting the depth of the earthquakes.
+
+The project utilizes JavaScript and Leaflet, a widely-used open-source JavaScript library for interactive maps, to create the visualization. By visualizing earthquake data, users can gain insights into the occurrence and characteristics of earthquakes around the world, enhancing their understanding of seismic activity.
+
 ## Part 1: Create the Earthquake Visualization
 
 The first task is to visualize an earthquake dataset through the following steps:
@@ -34,6 +40,23 @@ The first task is to visualize an earthquake dataset through the following steps
       * Add other base maps to choose from.
       * Put each dataset into separate overlays that can be turned on and off independently.
       * Add layer controls to your map.
+
+## Features
+
+Fetches earthquake data from the USGS GeoJSON feed
+Displays earthquakes as markers on an interactive map
+Marker size represents earthquake magnitude
+Marker color represents earthquake depth
+Popups provide additional information about each earthquake
+Legend provides context for interpreting earthquake depth
+
+## Technologies Used
+
+JavaScript
+Leaflet
+HTML
+CSS
+
 
 ### Link(s)
 https://amatutuwaa.github.io/leaflet-challenge/ - Deployed Web Page
