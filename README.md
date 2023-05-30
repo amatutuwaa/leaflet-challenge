@@ -43,27 +43,19 @@ The first task is to visualize an earthquake dataset through the following steps
 
 ## Features
 
-Fetches earthquake data from the USGS GeoJSON feed
-
-Displays earthquakes as markers on an interactive map
-
-Marker size represents earthquake magnitude
-
-Marker color represents earthquake depth
-
-Popups provide additional information about each earthquake
-
-Legend provides context for interpreting earthquake depth
+1. Fetches earthquake data from the USGS GeoJSON feed
+2. Displays earthquakes as markers on an interactive map
+3. Marker size represents earthquake magnitude
+4. Marker color represents earthquake depth
+5. Popups provide additional information about each earthquake
+6. Legend provides context for interpreting earthquake depth
 
 ## Technologies Used
 
-JavaScript
-
-Leaflet
-
-HTML
-
-CSS
+1. JavaScript
+2. Leaflet
+3. HTML
+4. CSS
 
 
 ### Link(s)
