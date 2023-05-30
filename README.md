@@ -58,5 +58,5 @@ The first task is to visualize an earthquake dataset through the following steps
 4. CSS
 
 
-### Link(s)
+## Link(s)
 https://amatutuwaa.github.io/leaflet-challenge/ - Deployed Web Page
